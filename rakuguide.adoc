@@ -12,6 +12,7 @@
 :toc: left
 :doctype: book
 :lang: en
+//:pdf-page-size: Letter
 
 
 This document is intended to give you a quick overview of the Raku programming language. +
